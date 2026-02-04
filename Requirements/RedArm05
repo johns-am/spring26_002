@@ -1,0 +1,19 @@
+the system must let users create an account with a username and password
+
+the system must save user progress automatically at least once every 60 seconds
+
+the system must show the user’s current score during gameplay
+
+the system must allow users to pause and continue the game without losing progress
+
+the system must load the main menu within 3 seconds after starting
+
+the system must support at least 50 users at the same time
+
+the system must show an error message when login information is wrong
+
+the system must keep user data secure and limit who can access it
+
+the system may allow users to customize their character
+
+the system must track and display completed levels
